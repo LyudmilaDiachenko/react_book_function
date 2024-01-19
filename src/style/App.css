@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(https://cdn.lifehacker.ru/wp-content/uploads/2020/04/07_Zoom_W3_Wallpapers_Template_1920x1080_dw14r5srn2dnxkju_1588254607.jpg);
+    background-repeat: no-repeat;
+    background-position: 90% 50%;
+}
+.img_container{
+    display: flex;
+}
+a{
+    text-decoration: none;
+    color: #333;
+}
+a:hover{
+    text-decoration: underline;
+}
